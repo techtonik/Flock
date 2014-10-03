@@ -328,6 +328,10 @@
     </string>
 
 
+    <!-- SendDebugLogActivity -->
+    <string name="send_debug_log">Send debug log</string>
+
+
     <!-- MigrationService -->
     <string name="migrating_to_new_version">Migrating to new version</string>
     <string name="preparing_to_upgrade_sync_protocol">Preparing to upgrade sync protocol…</string>

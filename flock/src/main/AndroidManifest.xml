@@ -133,6 +133,9 @@
 
         <activity android:name="org.anhonesteffort.flock.MigrationReleaseNotesActivity" />
 
+        <activity android:name="org.anhonesteffort.flock.SendDebugLogActivity"
+                  android:configChanges="touchscreen|keyboard|keyboardHidden|orientation|screenLayout|screenSize"/>
+
         <service android:name="org.anhonesteffort.flock.auth.AccountAuthenticatorService">
             <intent-filter>
                 <action android:name="android.accounts.AccountAuthenticator" />
